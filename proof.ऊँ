@@ -1,6 +1,6 @@
-1=['yes','हैं','ഉണ്ട്']
+1=['SHYAM','श्याम्','ശ്യാം']
 if(1){
-proof(1[0]) // returns yes
-proof(1[1]) // returns हैं
-proof(1[2]) // returns ഉണ്ട്
+proof(1[0]) // returns SHYAM
+proof(1[1]) // returns श्याम्
+proof(1[2]) // returns ശ്യാം
 }
